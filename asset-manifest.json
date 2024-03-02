@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rat_cra1/static/css/main.d196b98c.css",
+    "main.js": "/rat_cra1/static/js/main.5fc8d100.js",
+    "static/js/453.ae4dc0a1.chunk.js": "/rat_cra1/static/js/453.ae4dc0a1.chunk.js",
+    "index.html": "/rat_cra1/index.html",
+    "main.d196b98c.css.map": "/rat_cra1/static/css/main.d196b98c.css.map",
+    "main.5fc8d100.js.map": "/rat_cra1/static/js/main.5fc8d100.js.map",
+    "453.ae4dc0a1.chunk.js.map": "/rat_cra1/static/js/453.ae4dc0a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d196b98c.css",
+    "static/js/main.5fc8d100.js"
+  ]
+}
